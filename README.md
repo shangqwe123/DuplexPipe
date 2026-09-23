@@ -109,6 +109,10 @@ The Fisher English corpus is distributed by the Linguistic Data Consortium (Fish
 
 DuplexPipe builds on [F5-TTS](https://github.com/SWivid/F5-TTS), [Vocos](https://github.com/gemelo-ai/vocos) and [MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize). The pretrained F5-TTS weights are distributed by their authors under their own license (CC-BY-NC at the time of writing); check it before commercial use.
 
+## License
+
+The code is released under the [MIT License](LICENSE). The files in `examples/` are excerpts of the Fisher English corpus and are not covered by this license; they remain subject to the Linguistic Data Consortium's terms.
+
 ## Citation
 
 The accompanying paper is under review; a citation will be added here.
