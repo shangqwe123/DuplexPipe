@@ -1,0 +1,359 @@
+{
+ "audio": "fisher_example.wav",
+ "transcript": "fisher_example.json",
+ "channels": [
+  "S01",
+  "S02"
+ ],
+ "sample_rate": 8000,
+ "duration": 65.05,
+ "utterances": 17,
+ "transcript_check": "longest repeat 1, 0.26 utterances/s",
+ "high_risk": [
+  8
+ ],
+ "regenerated": [
+  {
+   "index": 1,
+   "speaker": "S01",
+   "start": 1.16,
+   "end": 1.66,
+   "hole": 0.5,
+   "spans": [
+    [
+     1.16,
+     1.66
+    ]
+   ],
+   "fully_overlapped": true,
+   "context": [
+    1,
+    0
+   ],
+   "borrowed": 1,
+   "prompt": "It does seem like not much is being done now. Mm.",
+   "hole_share": 0.179,
+   "high_risk": false
+  },
+  {
+   "index": 2,
+   "speaker": "S02",
+   "start": 1.26,
+   "end": 16.06,
+   "hole": 0.5,
+   "spans": [
+    [
+     1.26,
+     1.76
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    2,
+    1
+   ],
+   "borrowed": 1,
+   "prompt": "Oh, yeah. Well, yeah, that and Osama bin Laden. It, uh, It doesn't seem like, I mean, it's, it's good that they're, that they're free from Saddam now, but, you know, it's like there's, there's not a plan for the government, really, and, and, you know, the Iraqi people aren't really being represented in the government. It just seems, it seems like, what I'm afraid of is that they're going to become more bitter and that the whole situation is going to, to breed more terrorists and that they're going to become a real threat to us. But, I mean, 'cause that's",
+   "hole_share": 0.016,
+   "high_risk": false
+  },
+  {
+   "index": 3,
+   "speaker": "S01",
+   "start": 16.36,
+   "end": 16.86,
+   "hole": 0.4,
+   "spans": [
+    [
+     16.46,
+     16.86
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    1,
+    1
+   ],
+   "borrowed": 1,
+   "prompt": "It does seem like not much is being done now. Yeah. Like they, like they got their war, but I, I, I do have hopes that, you know, the government there will be, you know, restructured. I, I'm just wondering where the heck Saddam Hussein is, (laugh)",
+   "hole_share": 0.03,
+   "high_risk": false
+  },
+  {
+   "index": 4,
+   "speaker": "S02",
+   "start": 16.56,
+   "end": 30.16,
+   "hole": 1.13,
+   "spans": [
+    [
+     16.56,
+     16.96
+    ],
+    [
+     29.43,
+     30.16
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    1,
+    1
+   ],
+   "borrowed": 0,
+   "prompt": "It doesn't seem like, I mean, it's, it's good that they're, that they're free from Saddam now, but, you know, it's like there's, there's not a plan for the government, really, and, and, you know, the Iraqi people aren't really being represented in the government. It just seems, it seems like, what I'm afraid of is that they're going to become more bitter and that the whole situation is going to, to breed more terrorists and that they're going to become a real threat to us. But, I mean, 'cause that's, Oh, yeah. Well, yeah, that and Osama bin Laden.",
+   "hole_share": 0.036,
+   "high_risk": false
+  },
+  {
+   "index": 5,
+   "speaker": "S01",
+   "start": 29.53,
+   "end": 31.83,
+   "hole": 0.73,
+   "spans": [
+    [
+     29.53,
+     30.26
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    0,
+    1
+   ],
+   "borrowed": 0,
+   "prompt": "It does seem like not much is being done now. Like they, like they got their war, but I, I, I do have hopes that, you know, the government there will be, you know, restructured. I, I'm just wondering where the heck Saddam Hussein is, (laugh)",
+   "hole_share": 0.055,
+   "high_risk": false
+  },
+  {
+   "index": 6,
+   "speaker": "S02",
+   "start": 32.43,
+   "end": 32.93,
+   "hole": 0.47,
+   "spans": [
+    [
+     32.46,
+     32.93
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    1,
+    1
+   ],
+   "borrowed": 0,
+   "prompt": "It just seems, it seems like, what I'm afraid of is that they're going to become more bitter and that the whole situation is going to, to breed more terrorists and that they're going to become a real threat to us. But, I mean, 'cause that's, Yeah. Oh, yeah. Well, yeah, that and Osama bin Laden.",
+   "hole_share": 0.027,
+   "high_risk": false
+  },
+  {
+   "index": 7,
+   "speaker": "S01",
+   "start": 32.56,
+   "end": 43.36,
+   "hole": 0.47,
+   "spans": [
+    [
+     32.56,
+     33.03
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    1,
+    0
+   ],
+   "borrowed": 0,
+   "prompt": "It does seem like not much is being done now. Like they, like they got their war, but I, I, I do have hopes that, you know, the government there will be, you know, restructured. I, I'm just wondering where the heck Saddam Hussein is, (laugh)",
+   "hole_share": 0.036,
+   "high_risk": false
+  },
+  {
+   "index": 8,
+   "speaker": "S02",
+   "start": 43.73,
+   "end": 44.33,
+   "hole": 0.6,
+   "spans": [
+    [
+     43.73,
+     44.33
+    ]
+   ],
+   "fully_overlapped": true,
+   "context": [
+    1,
+    1
+   ],
+   "borrowed": 1,
+   "prompt": "Oh, yeah. Well, yeah, that and Osama bin Laden. Oh, yeah. I don't, (laugh) you know,",
+   "hole_share": 0.098,
+   "high_risk": true
+  },
+  {
+   "index": 9,
+   "speaker": "S01",
+   "start": 43.76,
+   "end": 44.36,
+   "hole": 0.6,
+   "spans": [
+    [
+     43.76,
+     44.36
+    ]
+   ],
+   "fully_overlapped": true,
+   "context": [
+    1,
+    0
+   ],
+   "borrowed": 0,
+   "prompt": "It does seem like not much is being done now. To be honest.",
+   "hole_share": 0.205,
+   "high_risk": false
+  },
+  {
+   "index": 11,
+   "speaker": "S01",
+   "start": 48.43,
+   "end": 49.33,
+   "hole": 0.87,
+   "spans": [
+    [
+     48.46,
+     49.33
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    1,
+    1
+   ],
+   "borrowed": 1,
+   "prompt": "Like they, like they got their war, but I, I, I do have hopes that, you know, the government there will be, you know, restructured. I, I'm just wondering where the heck Saddam Hussein is, (laugh), Oh, my gosh. It does seem like not much is being done now.",
+   "hole_share": 0.062,
+   "high_risk": false
+  },
+  {
+   "index": 12,
+   "speaker": "S02",
+   "start": 48.56,
+   "end": 51.06,
+   "hole": 1.27,
+   "spans": [
+    [
+     48.56,
+     49.43
+    ],
+    [
+     50.66,
+     51.06
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    1,
+    1
+   ],
+   "borrowed": 0,
+   "prompt": "Oh, yeah. Well, yeah, that and Osama bin Laden. I don't, (laugh) you know, Nobody knows where I don't are. And, uh, that just gets kinda forgotten, I think, in the media, you know? The, the media just kinda moves on to the next big thing and those questions get",
+   "hole_share": 0.074,
+   "high_risk": false
+  },
+  {
+   "index": 13,
+   "speaker": "S01",
+   "start": 50.76,
+   "end": 52.36,
+   "hole": 1.6,
+   "spans": [
+    [
+     50.76,
+     52.36
+    ]
+   ],
+   "fully_overlapped": true,
+   "context": [
+    1,
+    0
+   ],
+   "borrowed": 0,
+   "prompt": "It does seem like not much is being done now. I definitely wanna know where he is.",
+   "hole_share": 0.409,
+   "high_risk": false
+  },
+  {
+   "index": 14,
+   "speaker": "S02",
+   "start": 51.16,
+   "end": 62.76,
+   "hole": 2.2,
+   "spans": [
+    [
+     51.16,
+     52.46
+    ],
+    [
+     61.86,
+     62.76
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    2,
+    2
+   ],
+   "borrowed": 1,
+   "prompt": "Oh, yeah. Well, yeah, that and Osama bin Laden. I don't, (laugh) you know, Nobody knows where I don't are. And, uh, that just gets kinda forgotten, I think, in the media, you know? The, the media just kinda moves on to the next big thing and those questions get, left unanswered, so. It, uh,",
+   "hole_share": 0.114,
+   "high_risk": false
+  },
+  {
+   "index": 15,
+   "speaker": "S01",
+   "start": 61.96,
+   "end": 62.86,
+   "hole": 0.9,
+   "spans": [
+    [
+     61.96,
+     62.86
+    ]
+   ],
+   "fully_overlapped": true,
+   "context": [
+    1,
+    0
+   ],
+   "borrowed": 1,
+   "prompt": "It does seem like not much is being done now. Yeah, that's true.",
+   "hole_share": 0.279,
+   "high_risk": false
+  },
+  {
+   "index": 16,
+   "speaker": "S02",
+   "start": 62.76,
+   "end": 64.36,
+   "hole": 0.2,
+   "spans": [
+    [
+     62.76,
+     62.96
+    ]
+   ],
+   "fully_overlapped": false,
+   "context": [
+    1,
+    1
+   ],
+   "borrowed": 1,
+   "prompt": "Nobody knows where I don't are. And, uh, that just gets kinda forgotten, I think, in the media, you know? The, the media just kinda moves on to the next big thing and those questions get, left unanswered, so. Oh, yeah. Well, yeah, that and Osama bin Laden.",
+   "hole_share": 0.012,
+   "high_risk": false
+  }
+ ]
+}
